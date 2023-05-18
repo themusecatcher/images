@@ -1,1 +1,1 @@
-# static-resource
+# resources
